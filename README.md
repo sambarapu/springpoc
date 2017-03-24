@@ -1,4 +1,6 @@
-# Spring Cloud Config
+# Simple POC to use distributed clound environments 
+The below Continuous Integration scenario is used as poc
+
 Spring Cloud Config proof of concept exemplifying how distributed cloud environments 
 can benefit from externalizing the configuration from their applications.
 
