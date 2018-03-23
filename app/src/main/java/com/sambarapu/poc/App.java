@@ -1,4 +1,4 @@
-package com.dmitriydubson.poc;
+package com.sambarapu.poc;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
